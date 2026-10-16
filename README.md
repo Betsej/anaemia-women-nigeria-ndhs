@@ -17,7 +17,9 @@ A Power BI dashboard showing which women are most affected by anaemia in Nigeria
 - Data visualisation and KPI reporting
 
 ## Dashboard Preview
-![Dashboard Preview](Women_Anaemia_Dashboard .png) Women_Anaemia_Dashboard 2.png)
+![The Pattern](Women_Anaemia_Dashboard%20.png)
+
+![The Gap](Women_Anaemia_Dashboard%202.png)
 
 ## Key Insights
 - **Severity:** Moderate 2,358 (53%), mild 1,931 (44%), severe 126 (3%). More than half are moderate or severe (56%).
@@ -40,8 +42,8 @@ A Power BI dashboard showing which women are most affected by anaemia in Nigeria
 The data covers women with anaemia only, so the findings show who the cases are, not which groups have higher rates.
 
 ## Project Files
-- `Women_Anaemia_Dashboard .png) Women_Anaemia_Dashboard 2.png
-` — dashboard preview shown above.
+- `Women_Anaemia_Dashboard .png` — The Pattern page of the dashboard.
+- `Women_Anaemia_Dashboard 2.png` — The Gap page of the dashboard.
 
 ## Data Source
 2018 Nigeria Demographic and Health Survey (NDHS) from the DHS Program (https://dhsprogram.com). The data files are not included in this repository. They can be requested for free from the DHS Program website.
