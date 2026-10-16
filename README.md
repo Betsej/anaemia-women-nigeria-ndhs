@@ -44,6 +44,7 @@ The data covers women with anaemia only, so the findings show who the cases are,
 ## Project Files
 - `Women_Anaemia_Dashboard .png` — The Pattern page of the dashboard.
 - `Women_Anaemia_Dashboard 2.png` — The Gap page of the dashboard.
+- `Women_Anaemia_Presentation.pptx` — presentation of the findings.
 
 ## Data Source
 2018 Nigeria Demographic and Health Survey (NDHS) from the DHS Program (https://dhsprogram.com). The data files are not included in this repository. They can be requested for free from the DHS Program website.
