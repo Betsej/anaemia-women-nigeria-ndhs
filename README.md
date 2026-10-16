@@ -23,7 +23,7 @@ A Power BI dashboard showing which women are most affected by anaemia in Nigeria
 
 ## Key Insights
 - **Severity:** Moderate 2,358 (53%), mild 1,931 (44%), severe 126 (3%). More than half are moderate or severe (56%).
-- **Hemoglobin:** the average is 104.08, falling from 112.9 in mild cases to 67.6 in severe cases.
+- **Hemoglobin:** the average is 104.08, falling from 112.8 in mild cases to 67.6 in severe cases.
 - **Age:** cases peak at ages 25 to 34 (about 51%). Only 4% are aged 15 to 19.
 - **Wealth:** the poorest group has the most cases (1,089) and the richest the fewest (516).
 - **Education:** 1,914 (43%) have no formal education.
